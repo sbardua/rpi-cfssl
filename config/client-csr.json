@@ -1,0 +1,18 @@
+{
+  "CN": "user1",
+  "hosts": [
+    ""
+  ],
+  "key": {
+    "algo": "ecdsa",
+    "size": 256
+  },
+  "names": [
+    {
+      "C": "US",
+      "ST": "Oregon",
+      "L": "Portland",
+      "O": "Ellingson Mineral Corporation"
+    }
+  ]
+}
