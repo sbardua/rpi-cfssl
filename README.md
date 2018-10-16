@@ -3,7 +3,13 @@ Raspberry Pi Docker Container for Cloudflare's PKI and TLS toolkit
 
 # TODO
 - Yubikey for Root and Intermediate private key storage
+- Setup API for automated issuance
 - Do the whole CRL / OCSP thing
+
+# Build
+```
+docker build -t cfssl .
+```
 
 # Root
 ```
